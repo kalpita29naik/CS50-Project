@@ -1,0 +1,4 @@
+.gitignore
+userbase.db
+venv/
+trash/
